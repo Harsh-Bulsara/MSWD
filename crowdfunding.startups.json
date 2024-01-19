@@ -1,0 +1,258 @@
+[{
+  "_id": {
+    "$oid": "65a386e36aadee24de63f86f"
+  },
+  "type": "donation",
+  "name": "Givebutter",
+  "location": "Wilmington",
+  "employees": "11-50",
+  "website": "https://givebutter.com/"
+},
+{
+  "_id": {
+    "$oid": "65a38dd76aadee24de63f870"
+  },
+  "type": "donation",
+  "name": "Donorbox",
+  "location": "United States",
+  "employees": "51-200",
+  "website": "https://donorbox.org/"
+},
+{
+  "_id": {
+    "$oid": "65a38dd76aadee24de63f872"
+  },
+  "type": "donation",
+  "name": "Twio",
+  "location": "London",
+  "employees": "1-10",
+  "website": "https://twio.com/"
+},
+{
+  "_id": {
+    "$oid": "65a38dd76aadee24de63f873"
+  },
+  "type": "donation",
+  "name": "RightGift",
+  "location": "Austin",
+  "employees": "1-10",
+  "website": "https://rightgift.com/"
+},
+{
+  "_id": {
+    "$oid": "65a38dd76aadee24de63f874"
+  },
+  "type": "donation",
+  "name": "Magikk",
+  "location": "Rio de janeiro",
+  "employees": "1-10",
+  "website": "https://magikk.com/"
+},
+{
+  "_id": {
+    "$oid": "65a38e816aadee24de63f875"
+  },
+  "type": "donation",
+  "name": "Resupply",
+  "location": "Boston",
+  "employees": "11-50",
+  "website": "https://resupplyapp.com/"
+},
+{
+  "_id": {
+    "$oid": "65a3f8276aadee24de63f876"
+  },
+  "type": "equity",
+  "name": "Clean Capital",
+  "location": "New York city",
+  "total_funding": "$504M",
+  "website": "https://cleancapital.com/",
+  "founded_year": 2015
+},
+{
+  "_id": {
+    "$oid": "65a3f8276aadee24de63f877"
+  },
+  "type": "equity",
+  "name": "Groundfloor",
+  "founded_year": 2013,
+  "location": "Raleigh",
+  "total_funding": "$34.1M",
+  "website": "https://groundfloor.com/"
+},
+{
+  "_id": {
+    "$oid": "65a3f8276aadee24de63f878"
+  },
+  "type": "equity",
+  "name": "Fundrise",
+  "founded_year": 2010,
+  "location": "Washington DC",
+  "total_funding": "$51.2M",
+  "website": "https://fundrise.com/"
+},
+{
+  "_id": {
+    "$oid": "65a3f8276aadee24de63f879"
+  },
+  "type": "equity",
+  "name": "Seedrs",
+  "founded_year": 2009,
+  "location": "London",
+  "total_funding": "$39M",
+  "website": "https://seedrs.com/"
+},
+{
+  "_id": {
+    "$oid": "65a3f8276aadee24de63f87a"
+  },
+  "type": "equity",
+  "name": "OurCrowd",
+  "founded_year": 2012,
+  "location": "Jerusalem",
+  "website": "https://ourcrowd.com/",
+  "total_funding": "$35M"
+},
+{
+  "_id": {
+    "$oid": "65a3f8276aadee24de63f87b"
+  },
+  "type": "equity",
+  "name": "Seedinvest",
+  "founded_year": 2012,
+  "location": "New York city",
+  "total_funding": "$9.28M",
+  "website": "https://startengine.com/"
+},
+{
+  "_id": {
+    "$oid": "65a400f36aadee24de63f87c"
+  },
+  "type": "reward",
+  "name": "Alyce",
+  "location": "Boston",
+  "total_funding": "$48.4M",
+  "website": "https://alyce.com/",
+  "founded_year": 2015
+},
+{
+  "_id": {
+    "$oid": "65a400f36aadee24de63f87d"
+  },
+  "type": "reward",
+  "name": "Wildfire",
+  "founded_year": 2017,
+  "location": "Solana Beach",
+  "total_funding": "$24.5M",
+  "website": "https://wildfire-corp.com/"
+},
+{
+  "_id": {
+    "$oid": "65a400f36aadee24de63f87e"
+  },
+  "type": "reward",
+  "name": "Tango Card",
+  "founded_year": 2009,
+  "location": "Seattle",
+  "total_funding": "$57M",
+  "website": "https://tangocard.com/"
+},
+{
+  "_id": {
+    "$oid": "65a400f36aadee24de63f87f"
+  },
+  "type": "reward",
+  "name": "Influitive",
+  "founded_year": 2010,
+  "location": "Toronto",
+  "total_funding": "$59.9M",
+  "website": "https://influitive.com/"
+},
+{
+  "_id": {
+    "$oid": "65a400f36aadee24de63f880"
+  },
+  "type": "reward",
+  "name": "Thanx",
+  "founded_year": 2012,
+  "location": "San Francisco",
+  "total_funding": "$23.1M",
+  "website": "https://thanx.com/"
+},
+{
+  "_id": {
+    "$oid": "65a400f36aadee24de63f881"
+  },
+  "type": "reward",
+  "name": "Fetch",
+  "founded_year": 2013,
+  "location": "Madison",
+  "total_funding": "$247M",
+  "website": "https://fetch.com"
+},
+{
+  "_id": {
+    "$oid": "65a405c06aadee24de63f882"
+  },
+  "type": "lending",
+  "name": "Lendingkart",
+  "founded_year": 2014,
+  "location": "Ahmedabad",
+  "total_funding": "$231M",
+  "website": "https://lendingkart.com/"
+},
+{
+  "_id": {
+    "$oid": "65a405c06aadee24de63f883"
+  },
+  "type": "lending",
+  "name": "Kissht",
+  "founded_year": 2015,
+  "location": "Mumbai",
+  "total_funding": "$132M",
+  "website": "https://Kissht.com/"
+},
+{
+  "_id": {
+    "$oid": "65a405c06aadee24de63f884"
+  },
+  "type": "lending",
+  "name": "ZestMoney",
+  "founded_year": 2015,
+  "location": "Bengaluru",
+  "total_funding": "$134M",
+  "website": "https://zestmoney.in/"
+},
+{
+  "_id": {
+    "$oid": "65a405c06aadee24de63f885"
+  },
+  "type": "lending",
+  "name": "Flexiloans",
+  "founded_year": 2016,
+  "location": "Mumbai",
+  "total_funding": "$62.3M",
+  "website": "https://flexiloans.com/"
+},
+{
+  "_id": {
+    "$oid": "65a405c06aadee24de63f886"
+  },
+  "type": "lending",
+  "name": "Navi",
+  "founded_year": 2018,
+  "location": "Bengaluru",
+  "total_funding": "$443M",
+  "website": "https://navi.com/"
+},
+{
+  "_id": {
+    "$oid": "65a405c06aadee24de63f887"
+  },
+  "type": "lending",
+  "name": "Simpl",
+  "founded_year": 2015,
+  "location": "Bengaluru",
+  "total_funding": "$83M",
+  "website": "https://getsimpl.com"
+}]
